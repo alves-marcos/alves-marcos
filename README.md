@@ -43,7 +43,7 @@
    <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right: 10px;"/>
   <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right: 10px;"/>
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right: 10px;"/>
-  <img align="center" alt="Ubuntu" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="padding-right: 10px;"/>
+  <img align="center" alt="Linux Mint" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" style="padding-right: 10px;"/>
   <img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right: 10px;" />
 </div>
 
@@ -55,7 +55,7 @@
   <a href="https://www.google.com.br/maps/place/Juiz+de+Fora,+MG" target="_blank">
     <img src="https://img.shields.io/badge/Brasil-Juiz_de_Fora_/_MG-009c3b?style=for-the-badge&logo=google-maps&logoColor=009c3b&labelColor=fedf00" />
   </a>
-  <a href="https://www.linkedin.com/in/marcos-costa-913637185/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcos-alves-913637185/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marcoss.engineer@gmail.com">
