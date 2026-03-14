@@ -1,50 +1,86 @@
 <div align="center">
-  <h1>🧑‍💻 Marcos Costa</h1>
-  <h2 style="margin-top: -10px; color: #58a6ff;">Desenvolvedor Front-end</h2>
-  <p>Foco em Desenvolvimento Web, Interfaces Responsivas e Experiência do Usuário</p>
-
-  <p>
-    
-  </p>
+  <h1>Marcos Costa</h1>
+  <h3 style="color:#f89820;">Java Developer</h3>
+  <p>Backend Development • Software Engineering • Business Systems</p>
 </div>
 
 ---
 
-## 🎓 Formação Acadêmica
+## Sobre
 
-* <font size="4">🎓 **Graduado:** Análise e Desenvolvimento de Sistemas (ADS)</font>
-* <font size="4">📚 **Cursando:** Engenharia de Software</font>
+Desenvolvedor com foco em **Java e desenvolvimento backend**, atuando na construção de aplicações robustas e escaláveis.
+Possuo experiência com **análise de sistemas corporativos**, entendimento de regras de negócio e desenvolvimento de soluções orientadas a processos.
 
----
-
-## 🚀 Especialidades & Foco Profissional
-
-### **1. Desenvolvimento Front-end**
-> Construção de aplicações web modernas, responsivas e acessíveis utilizando **HTML**, **CSS** e **JavaScript**. Estruturação de código focado na experiência do usuário (UX) e criação de interfaces dinâmicas. Estudos práticos orientados por plataformas de excelência, como **freeCodeCamp** e **The Odin Project**.
->
-> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-
-
-### **2. Background Corporativo (Sistemas ERP)**
-> Experiência com suporte especializado e análise sistêmica no ecossistema **TOTVS Protheus**. Atuação no levantamento de requisitos, entendimento de regras de negócio e mapeamento de processos, agregando forte visão de negócios e maturidade profissional ao desenvolvimento de software.
->
-> <img src="https://img.shields.io/badge/TOTVS_Protheus-004A99?style=for-the-badge&logo=totvs&logoColor=white" /> <img src="https://img.shields.io/badge/Regras_de_Negócio-333333?style=for-the-badge" />
+Minha atuação combina **engenharia de software, lógica de programação e visão de negócios**, adquirida através da experiência com sistemas ERP e desenvolvimento de aplicações.
 
 ---
 
-## 💻 Tech Stack e Ferramentas
+## Formação
+
+* **Análise e Desenvolvimento de Sistemas (ADS)** — Concluído
+* **Engenharia de Software** — Em andamento
+
+---
+
+## Especialização Técnica
+
+### Desenvolvimento Backend
+
+Desenvolvimento de aplicações utilizando **Java**, com foco em arquitetura de software, programação orientada a objetos e construção de sistemas de alta qualidade.
+
+Principais áreas de atuação:
+
+* Programação Orientada a Objetos (POO)
+* Estruturas de dados e algoritmos
+* Desenvolvimento de aplicações backend
+* Boas práticas de engenharia de software
+* Resolução de problemas e lógica computacional
+
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+---
+
+### Desenvolvimento Web
+
+Experiência na construção de interfaces web modernas e responsivas utilizando tecnologias fundamentais da web.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+---
+
+### Sistemas Corporativos
+
+Experiência com suporte e análise de sistemas no ecossistema **TOTVS Protheus**, atuando no entendimento de processos empresariais e levantamento de requisitos.
+
+Competências aplicadas:
+
+* Análise de sistemas
+* Levantamento de requisitos
+* Regras de negócio
+* Suporte a sistemas ERP
+* Mapeamento de processos
+
+<img src="https://img.shields.io/badge/TOTVS_Protheus-004A99?style=for-the-badge&logo=totvs&logoColor=white" />
+
+---
+
+## Stack Tecnológica
 
 <div align="left">
-  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right: 10px;" />
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right: 10px;" />
-   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right: 10px;"/>
-  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right: 10px;"/>
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right: 10px;"/>
-  <img align="center" alt="Linux Mint" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" style="padding-right: 10px;"/>
-  <img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right: 10px;" />
+
+<img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+<img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg"/>
+
 </div>
 
 ---
