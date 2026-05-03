@@ -24,7 +24,7 @@ Atuação voltada para construção de aplicações, engenharia de software e re
 ## Stack Tecnológica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,idea,postgres,mysql,flutter,git,js,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=java,spring,idea,postgres,mysql,git,linux,windows" />
 </p>
 
 ---
