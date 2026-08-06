@@ -18,6 +18,7 @@ Atuação voltada para construção de aplicações, engenharia de software e re
 
 * **Análise e Desenvolvimento de Sistemas (ADS)** — Concluído
 * **Engenharia de Software** — Em andamento
+* **Especialização em IA Generativa**  — Em andamento
 
 ---
 
