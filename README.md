@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Marcos Alves</h1>
-  <h3>🐍 Python Developer</h3>
+  <h3>Python Developer</h3>
   <p>Python • Backend Development • Software Engineering • Cybersecurity</p>
 </div>
 ---
@@ -24,6 +24,7 @@ Busco evoluir continuamente como desenvolvedor, construindo soluções eficiente
 * **Análise e Desenvolvimento de Sistemas (ADS)** — Concluído
 * **Engenharia de Software** — Em andamento
 * **Especialização em IA Generativa** — Em andamento
+* **Especialização em Cibersegurança** — Em andamento 
 
 ---
 
