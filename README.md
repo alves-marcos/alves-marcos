@@ -3,6 +3,7 @@
   <h3>Python Developer</h3>
   <p>Python • Backend Development • Software Engineering • Cybersecurity</p>
 </div>
+
 ---
 
 ## 👨‍💻 Sobre Mim
